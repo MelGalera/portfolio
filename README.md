@@ -2,10 +2,10 @@
 
 <br>
 
-<img src= "assets/img/medical.jpg" width = "180" height= "120" style= "float: left; margin-right: 10px;"/>
+<img src= "assets/img/medical.jpg" width = "180" height= "120" style= "text-align:center; margin-right: 10px;"/>
 **Medical cost prediction using regression analysis in R**
 
-<img src= "assets/img/diabetes.jpg" width = "180" height= "120" style= "float: left; margin-right: 10px;"/>
+<img src= "assets/img/diabetes.jpg" width = "180" height= "120" style= "margin-right: 10px;"/>
 **Diabetes prediction using regression analysis in R**
 
 <img src= "assets/img/virus.jpg" width = "180" height= "120" style= "margin-right: 10px;"/>
