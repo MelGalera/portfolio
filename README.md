@@ -10,31 +10,26 @@
 **Diabetes prediction using GLM regression analysis in R**<br/><br/><br/>
 &nbsp;
 
-
-
-
-<img align = left src= "assets/img/medical_title.jpg">
+<img align = left src= "assets/img/virus.jpg" width = "180" height = "110" style= "margin-right: 10px;"/><br/>
+**Breast cancer survival analysis with R**<br/><br/><br/>
 &nbsp;
 
-<img align = left src= "assets/img/diabetes_title.jpg">
-&nbsp;
-
-<img align = left src= "assets/img/cancer_title.jpg">
-&nbsp;
-
-<img align = left src= "assets/img/heart_title.jpg">
+<img align = left src= "assets/img/heart.jpg" width = "180" height = "110" style= "margin-right: 10px;"/><br/>
+**Heart disease prediction using machine learning in Python**<br/><br/><br/><br/>
 &nbsp;
 &nbsp;
 
-#### Visualisations
+<span style="color: blue; font-size:1.2em"> **Visualizations** </span>
 
-<img align = left src= "assets/img/covid_title.jpg">
+<img align = left src= "assets/img/covid.jpg" width = "180" height = "110" style= "margin-right: 10px;"/><br/>
+**NSW COVID-19 Cases Dashboard (R Flexdashboard)**<br/><br/><br/>
 &nbsp;
 
-<img align = left src= "assets/img/hospital_title.jpg">
+<img align = left src= "assets/img/hospital.jpg" width = "180" height = "110" style= "margin-right: 10px;"/><br/>
+**Australia Public Hospitals Dashboard (R Shiny)**<br/><br/><br/>
 &nbsp;
 
-<img align = left src= "assets/img/burden_title.jpg">
+<img align = left src= "assets/img/burden.jpg" width = "180" height = "110" style= "margin-right: 10px;"/><br/>
+**Australia Burden of Disease (Tableau)**<br/><br/><br/>
 &nbsp;
-
 
