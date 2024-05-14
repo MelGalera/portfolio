@@ -1,6 +1,7 @@
 # Projects
 
-<img src="assets/img/medical.jpg" width="250"> Medical cost prediction using regression analysis in R
+![](assets/img/medical.jpg)
+### Medical cost prediction using regression analysis in R
 
 ### Diabetes prediction using regression analysis in R
 
