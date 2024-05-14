@@ -1,21 +1,20 @@
 # Projects
 
-![](assets/img/medical.jpg)
-### Medical cost prediction using regression analysis in R
+![](assets/img/medical.jpg) Medical cost prediction using regression analysis in R
 
-### Diabetes prediction using regression analysis in R
+Diabetes prediction using regression analysis in R
 
-### Breast cancer survival analysis with R
+Breast cancer survival analysis with R
 
-### Heart disease prediction using machine learning in Python
+Heart disease prediction using machine learning in Python
 
 
-## Visualisations
+### Visualisations
 
-### New South wales COVID-19 Cases Dashboard (R Flexdashboard)
+New South wales COVID-19 Cases Dashboard (R Flexdashboard)
 
-### Australia Public Hospitals Dashboard (R Shiny)
+Australia Public Hospitals Dashboard (R Shiny)
 
-### Australia Burden of Disease (Tableau)
+Australia Burden of Disease (Tableau)
 
 
