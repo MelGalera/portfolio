@@ -2,13 +2,13 @@
 
 <br>
 
-<img src= "assets/img/medical.jpg" width = "180" height= "120" style= "text-align:center; margin-right: 10px;"/>
+<img align = "left" src= "assets/img/medical.jpg" width = "180" height= "120" style= "margin-right: 10px;"/>
 **Medical cost prediction using regression analysis in R**
 
-<img src= "assets/img/diabetes.jpg" width = "180" height= "120" style= "margin-right: 10px;"/>
+<img align = "left" src= "assets/img/diabetes.jpg" width = "180" height= "120" style= "margin-right: 10px;"/>
 **Diabetes prediction using regression analysis in R**
 
-<img src= "assets/img/virus.jpg" width = "180" height= "120" style= "margin-right: 10px;"/>
+<img align = "left" src= "assets/img/virus.jpg" width = "180" height= "120" style= "margin-right: 10px;"/>
 **Breast cancer survival analysis with R**
 
 <img src= "assets/img/heart.jpg" width = "180" height= "120" style= "margin-right: 10px;"/>
