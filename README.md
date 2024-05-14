@@ -8,7 +8,7 @@
 <img src= "assets/img/diabetes.jpg" width = "180" height= "120" style= "margin-right: 10px;"/>
 **Diabetes prediction using regression analysis in R**
 
-<img src= "assets/img/virus.jpg" width = "180" height= "120"style= "margin-right: 10px;"/>
+<img src= "assets/img/virus.jpg" width = "180" height= "120" style= "margin-right: 10px;"/>
 **Breast cancer survival analysis with R**
 
 <img src= "assets/img/heart.jpg" width = "180" height= "120" style= "margin-right: 10px;"/>
