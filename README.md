@@ -1,6 +1,6 @@
 # Projects
 
-<img src = "assets/img/medical.jpg" width = "200">
+![](assets/img/medical.jpg){width=200}
 ### Medical cost prediction using regression analysis in R
 
 ### Diabetes prediction using regression analysis in R
