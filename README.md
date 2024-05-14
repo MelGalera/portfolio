@@ -2,30 +2,23 @@
 
 <br>
 
-<img src= "assets/img/medical.jpg" width = "180" height= "120" style= "text-align:left; margin-right: 10px;"/>
-**Medical cost prediction using regression analysis in R**
+<img align = left src= "assets/img/medical_title.jpg" width = "420" height= "110"> <br />
 
+<img align = left src= "assets/img/diabetes_title.jpg" width = "420" height= "110"> <br />
 
-<img src= "assets/img/diabetes.jpg" width = "180" height= "120" style= "text-align:left; margin-right: 10px;"/>
-**Diabetes prediction using regression analysis in R**
+<img align = left src= "assets/img/cancer_title.jpg" width = "420" height= "110"> <br />
 
-<img src= "assets/img/virus.jpg" width = "180" height= "120" style= "text-align:left; margin-right: 10px;"/>
-**Breast cancer survival analysis with R**
-
-<img src= "assets/img/heart.jpg" width = "180" height= "120" style= "text-align:left; margin-right: 10px;"/>
-**Heart disease prediction using machine learning in Python**
+<img align = left src= "assets/img/heart_title.jpg" width = "420" height= "110"> <br />
 
 <br>
 
 #### Visualisations
 
-<img src= "assets/img/covid.jpg" width = "180" height= "120" style= "text-align:left; margin-right: 10px;"/>
-**New South wales COVID-19 Cases Dashboard (R Flexdashboard)**
+<img align = left src= "assets/img/covid_title.jpg" width = "420" height= "110"> <br />
 
-<img src= "assets/img/hospital.jpg" width = "180" height= "120" style= "text-align:left; margin-right: 10px;"/>
-**Australia Public Hospitals Dashboard (R Shiny)**
+<img align = left src= "assets/img/hospital_title.jpg" width = "420" height= "110"> <br />
 
-<img src= "assets/img/burden.jpg" width = "180" height= "120" style="text-align:left; margin-right: 10px;"/>
-**Australia Burden of Disease (Tableau)**
+<img align = left src= "assets/img/burden_title.jpg" width = "420" height= "110"> <br />
+
 
 
