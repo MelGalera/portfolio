@@ -4,6 +4,4 @@ description: MS Health Data Science
 #show_downloads: true
 theme: jekyll-theme-minimal
 social_links: true
-  - {label: "Linkedin"
-    icon: "fab fa-fw fa-linkedin"
-    url: "https://www.linkedin.com/in/melvin-galera-191b1a89"}
+linkedin: "https://www.linkedin.com/in/melvin-galera-191b1a89"}
