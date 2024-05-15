@@ -30,6 +30,7 @@
 &nbsp;
 
 <img align = left src= "assets/img/burden.jpg" width = "180" height = "110" style= "margin-right: 10px;"/><br/>
-**Australia Burden of Disease**<br/>**(Tableau)**<br/><br/><br/>
+**Australia Burden of Disease**<br/>**(Tableau)**<br/><br/><br/><br/><br/><br/>
 &nbsp;
 
+<span style="font-size:0.7em"> This cover has been designed using assets from Freepik.com </span>
