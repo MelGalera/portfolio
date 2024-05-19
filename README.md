@@ -3,7 +3,7 @@
 <br>
 
 <img align = left src= "assets/img/medical.jpg" width = "180" height = "110" style= "margin-right: 10px;"/><br/>
-**Medical cost prediction using linear regression analysis in R**<br/><br/><br/>
+[**Medical expenses prediction using linear regression analysis in R**](https://melgalera.github.io/Linear-Regression-with-R/)<br/><br/><br/>
 &nbsp;
 
 <img align = left src= "assets/img/diabetes.jpg" width = "180" height = "110" style= "margin-right: 10px;"/><br/>
