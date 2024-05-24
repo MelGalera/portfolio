@@ -22,12 +22,12 @@
 
 <span style="color: #bf9b30; font-size:1.2em"> **Visualizations** </span>
 
-<img align = left src= "assets/img/covid.jpg" width = "180" height = "110" style= "margin-right: 10px;"/><br/>
-**NSW COVID-19 Cases Dashboard**<br/>**(R Flexdashboard)**<br/><br/><br/>
+<img align = left src= "assets/img/hospital.jpg" width = "180" height = "110" style= "margin-right: 10px;"/><br/>
+[**Australia Public Hospitals Dashboard**](https://melgalera.github.io/Public-Hospitals-Dashboard-with-R/){:target="_blank"}<br/>**(R Shiny)**<br/><br/><br/>
 &nbsp;
 
-<img align = left src= "assets/img/hospital.jpg" width = "180" height = "110" style= "margin-right: 10px;"/><br/>
-**Australia Public Hospitals Dashboard**<br/>**(R Shiny)**<br/><br/><br/>
+<img align = left src= "assets/img/covid.jpg" width = "180" height = "110" style= "margin-right: 10px;"/><br/>
+**NSW COVID-19 Cases Dashboard**<br/>**(R Flexdashboard)**<br/><br/><br/>
 &nbsp;
 
 <img align = left src= "assets/img/burden.jpg" width = "180" height = "110" style= "margin-right: 10px;"/><br/>
