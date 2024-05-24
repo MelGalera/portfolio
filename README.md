@@ -3,15 +3,16 @@
 <br>
 
 <img align = left src= "assets/img/medical.jpg" width = "180" height = "110" style= "margin-right: 10px;"/><br/>
-[**Medical expenses prediction using regression analysis in R**](https://melgalera.github.io/Linear-Regression-with-R/)<br/><br/><br/>
+[**Medical expenses prediction using regression analysis in R**](https://melgalera.github.io/Linear-Regression-with-R/){:target="_blank"}<br/><br/><br/>
 &nbsp;
 
 <img align = left src= "assets/img/diabetes.jpg" width = "180" height = "110" style= "margin-right: 10px;"/><br/>
-[**Diabetes prediction using regression analysis in R**](https://melgalera.github.io/Logistic-Regression-GLM-with-R/)<br/><br/><br/>
+[**Diabetes prediction using regression analysis in R**](https://melgalera.github.io/Logistic-Regression-GLM-with-R/){:target="_blank"}<br/><br/><br/>
 &nbsp;
 
 <img align = left src= "assets/img/virus.jpg" width = "180" height = "110" style= "margin-right: 10px;"/><br/>
-**Breast cancer survival analysis with R**<br/><br/><br/><br/>
+[**Breast cancer survival analysis with R**](https://melgalera.github.io/Survival-Analysis-with-R/){:target="_blank"}
+<br/><br/><br/><br/>
 &nbsp;
 
 <img align = left src= "assets/img/heart.jpg" width = "180" height = "110" style= "margin-right: 10px;"/><br/>
