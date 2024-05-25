@@ -27,7 +27,7 @@
 &nbsp;
 
 <img align = left src= "assets/img/covid.jpg" width = "180" height = "110" style= "margin-right: 10px;"/><br/>
-**NSW COVID-19 Cases Dashboard**<br/>**(R Flexdashboard)**<br/><br/><br/>
+[**New South Wales COVID-19 Cases Dashboard**](https://melgalera.github.io/NSW-COVID-Dashboard-with-R/){:target="_blank"}<br/>**(R Flexdashboard)**<br/><br/><br/>
 &nbsp;
 
 <img align = left src= "assets/img/burden.jpg" width = "180" height = "110" style= "margin-right: 10px;"/><br/>
