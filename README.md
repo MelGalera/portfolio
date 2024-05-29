@@ -16,7 +16,7 @@
 &nbsp;
 
 <img align = left src= "assets/img/heart.jpg" width = "180" height = "110" style= "margin-right: 10px;"/><br/>
-[**Heart disease prediction using machine learning in Python**](https://github.com/MelGalera/Heart-Disease-Prediction-with-Python/blob/main/Heart_disease_UCL.ipynb)<br/><br/><br/><br/>
+[**Heart disease prediction using machine learning in Python**](https://github.com/MelGalera/Heart-Disease-Prediction-with-Python/blob/main/Heart_disease_UCL.ipynb){:target="_blank"}<br/><br/><br/><br/>
 &nbsp;
 &nbsp;
 
