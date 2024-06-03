@@ -18,6 +18,11 @@
 <img align = left src= "assets/img/heart.jpg" width = "180" height = "110" style= "margin-right: 10px;"/><br/>
 [**Heart disease prediction using machine learning in Python**](https://nbviewer.org/github/MelGalera/Heart-Disease-Prediction-with-Python/blob/main/Heart_disease_UCL.ipynb){:target="_blank"}<br/><br/><br/><br/>
 &nbsp;
+
+
+<img align = left src= "assets/img/sql.jpg" width = "180" height = "110" style= "margin-right: 10px;"/><br/>
+**SQL Projects**<br/><br/><br/><br/>
+&nbsp;
 &nbsp;
 
 <span style="color: #bf9b30; font-size:1.2em"> **Visualizations** </span>
