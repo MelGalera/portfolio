@@ -21,7 +21,9 @@
 
 
 <img align = left src= "assets/img/sql.jpg" width = "180" height = "110" style= "margin-right: 10px;"/><br/>
-[**SQL Projects**](https://melgalera.github.io/COVID-data-exploration-by-SQL/){:target="_blank"}<br/><br/><br/><br/>
+**SQL Projects**<br/>
+[***COVID Data Exploration***](https://melgalera.github.io/COVID-data-exploration-by-SQL/){:target="_blank"}<br/>
+[***Population Growth Data Exploration***](https://melgalera.github.io/Population-growth-data-exploration-by-SQL/){:target="_blank"}<br/><br/>
 &nbsp;
 &nbsp;
 
