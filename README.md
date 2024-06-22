@@ -38,7 +38,7 @@
 &nbsp;
 
 <img align = left src= "assets/img/burden.jpg" width = "180" height = "110" style= "margin-right: 10px;"/><br/>
-[**Australia Burden of Disease Visualization**](https://public.tableau.com/views/aus_burden_of_disease_viz/ABDdashboard?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link){:target="_blank"}<br/>**(Tableau)**<br/><br/><br/><br/><br/><br/>
+[**Australia Burden of Disease Visualization**](https://public.tableau.com/views/aus_burden_of_disease_viz/ABDdashboard?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link){:target="_blank"}<br/>**(Tableau)**<br/><br/><br/>
 &nbsp;
 
 <img align = left src= "assets/img/enrolment.jpg" width = "180" height = "110" style= "margin-right: 10px;"/><br/>
