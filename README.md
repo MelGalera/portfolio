@@ -42,9 +42,9 @@
 &nbsp;
 
 <img align = left src= "assets/img/enrolment.jpg" width = "180" height = "110" style= "margin-right: 10px;"/><br/>
-[**Australia Higher Education Student Enrolments Dashboard**](https://public.tableau.com/views/AUS_HDE/StudentEnrolmentsPartA?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link){:target="_blank"}<br/>**(Tableau)**<br/><br/><br/>
+[**Australia Higher Education Student Enrolments Dashboard**](https://public.tableau.com/views/AUS_HDE/StudentEnrolmentsPartA?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link){:target="_blank"}<br/>**(Tableau)**<br/><br/>
 &nbsp;
 
-<img align = left src= "assets/img/completions.jpg" width = "180" height = "110" style= "margin-right: 10px;"/><br/>
+<img align = left src= "assets/img/completions2.jpg" width = "180" height = "110" style= "margin-right: 10px;"/><br/>
 [**Australia Higher Education Award Course Completions Dashboard**](https://public.tableau.com/views/AUS_Completion/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link){:target="_blank"}<br/>**(Tableau)**<br/><br/><br/><br/><br/><br/>
 &nbsp;
