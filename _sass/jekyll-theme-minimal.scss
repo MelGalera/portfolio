@@ -262,21 +262,14 @@ footer {
 
 .card a {
   color:#000000;
-  font-face: "Arial";
-}
-
-/* Clear floats after the columns */
-.card-container:after {
-  content: "";
-  display: table;
-  clear: both;
+  font-family: "Arial";
 }
 
 #topic_head {
   color:#ab8a2b;
   font-size:1.2em;
   font-weight: bold;
-  font-face: "Arial";
+  font-family: "Arial";
 }
 
 @media (max-width: 768px) {
