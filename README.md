@@ -3,7 +3,6 @@
 <br>
 
 <p id= "topic_head">Exploratory and Statistical Analyses</p>
-&nbsp;
 
 <div class = "card-container">
 <div class = "card">
@@ -30,9 +29,74 @@
 </div>
 </div>
 
+&nbsp;
+&nbsp;
+&nbsp;
+
 <p id= "topic_head">SQL projects</p>
+
+<div class = "card-container">
+<div class = "card">
+     <img align = left src= "assets/img/sql.jpg" width = "180" height = "110" style= "margin-right: 10px;"/>
+     <p><a href = "https://melgalera.github.io/COVID-data-exploration-by-SQL/" target = "_blank">COVID Data Exploration</a></p>
+</div>
+<div class = "card">
+      <img align = left src= "assets/img/sql.jpg" width = "180" height = "110" style= "margin-right: 10px;"/>
+      <p><a href = "https://melgalera.github.io/Population-growth-data-exploration-by-SQL/" target = "_blank">Population Growth Data Exploration</a></p>  
+</div>
+</div>
+
+&nbsp;
+&nbsp;
 &nbsp;
 
 <p id= "topic_head">Data Visualizations</p>
+
+<div class = "card-container">
+<div class = "card">
+     <img align = left src= "assets/img/enrolment.jpg" width = "180" height = "110" style= "margin-right: 10px;"/>
+     <p><a href = "https://public.tableau.com/views/AUS_HDE/StudentEnrolmentsPartA?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" target = "_blank">Australia Higher Education Student Enrolments Dashboard</a></p>
+</div>
+<div class = "card">
+      <img align = left src= "assets/img/completions2.jpg" width = "180" height = "110" style= "margin-right: 10px;"/>
+      <p><a href = "https://public.tableau.com/views/AUS_Completion/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" target = "_blank">Australia Higher Education Award Course Completions Dashboard</a></p>  
+</div>
+</div>
+
 &nbsp;
+&nbsp;
+
+<div class = "card-container">
+<div class = "card">
+     <img align = left src= "assets/img/burden.jpg" width = "180" height = "110" style= "margin-right: 10px;"/>
+     <p><a href = "https://public.tableau.com/views/aus_burden_of_disease_viz/ABDdashboard?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link" target = "_blank">Australia Burden of Disease Visualization</a></p>
+</div>
+<div class = "card">
+     <img align = left src= "assets/img/burden.jpg" width = "180" height = "110" style= "margin-right: 10px;"/>
+     <p><a href = "https://public.tableau.com/views/aus_burden_of_disease_viz/ABDdashboard?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link" target = "_blank">Australia Burden of Disease Visualization</a></p>  
+</div>
+</div>
+
+&nbsp;
+&nbsp;
+
+<div class = "card-container">
+<div class = "card">
+     <img align = left src= "assets/img/hospital.jpg" width = "180" height = "110" style= "margin-right: 10px;"/>
+     <p><a href = "https://melgalera.github.io/Public-Hospitals-Dashboard-with-R/">Australia Public Hospitals Dashboard (R Shiny)</a></p>
+</div>
+<div class = "card">
+     <img align = left src= "assets/img/covid.jpg" width = "180" height = "110" style= "margin-right: 10px;"/>
+     <p><a href = "https://melgalera.github.io/NSW-COVID-Dashboard-with-R/" target = "_blank">New South Wales COVID-19 Cases Dashboard (R Flexdashboard)</a></p>  
+</div>
+</div>
+
+
+
+
+
+
+
+
+
 
