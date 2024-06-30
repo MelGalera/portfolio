@@ -16,7 +16,6 @@
 </div>
 
 &nbsp;
-&nbsp;
  
 <div class = "card-container">
 <div class = "card">
@@ -29,7 +28,7 @@
 </div>
 </div>
 
-&nbsp;
+
 &nbsp;
 &nbsp;
 &nbsp;
@@ -47,7 +46,7 @@
 </div>
 </div>
 
-&nbsp;
+
 &nbsp;
 &nbsp;
 &nbsp;
@@ -66,7 +65,6 @@
 </div>
 
 &nbsp;
-&nbsp;
 
 <div class = "card-container">
 <div class = "card">
@@ -80,7 +78,7 @@
 </div>
 
 &nbsp;
-&nbsp;
+
 
 <div class = "card-container">
 <div class = "card">
