@@ -2,7 +2,7 @@
 
 <br>
 
-<div class = "row">
+<div class = "card-container">
 
 <div class = "card">
      <img align = left src= "assets/img/medical.jpg" width = "150" height = "100" style= "margin-right: 10px;"/>
