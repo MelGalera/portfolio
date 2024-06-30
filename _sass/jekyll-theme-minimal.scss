@@ -246,11 +246,11 @@ footer {
 }
 
 /* Float four columns side by side */
-.column {
-  float: left;
-  width: 50%;
-  padding: 0 10px;
-}
+/* .column {
+/*   float: left;
+/*   width: 50%;
+/*   padding: 0 10px;
+/* } */
 
 /* Remove extra left and right margins, due to padding in columns */
 .row {margin: 0 -5px;}
@@ -268,7 +268,9 @@ footer {
   padding: 10px;
   text-align: left;
   background-color: #f1f1f1;
-  max-width: 300px;
+  width: 50%;
+  display: flex;
+  flex-direction: column;  
 }
 
 /* Responsive columns - one column layout (vertical) on small screens */
