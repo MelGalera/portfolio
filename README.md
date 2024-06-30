@@ -15,8 +15,6 @@
 </div>
 </div>
 
-&nbsp;
- 
 <div class = "card-container">
 <div class = "card">
      <img align = left src= "assets/img/virus.jpg" width = "180" height = "110" style= "margin-right: 10px;"/>
@@ -64,8 +62,6 @@
 </div>
 </div>
 
-&nbsp;
-
 <div class = "card-container">
 <div class = "card">
      <img align = left src= "assets/img/burden.jpg" width = "180" height = "110" style= "margin-right: 10px;"/>
@@ -76,9 +72,6 @@
      <p><a href = "https://public.tableau.com/views/Covid_deaths_17194860048630/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link" target = "_blank">COVID-19 Cases, Deaths & Vaccinations Dashboard (Tableau)</a></p>  
 </div>
 </div>
-
-&nbsp;
-
 
 <div class = "card-container">
 <div class = "card">
