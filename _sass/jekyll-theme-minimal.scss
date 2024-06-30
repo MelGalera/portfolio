@@ -262,7 +262,7 @@ footer {
 
 .card a {
   color:#000000;
-  font: Arial;
+  font-face: "Arial";
 }
 
 /* Clear floats after the columns */
@@ -275,7 +275,8 @@ footer {
 #topic_head {
   color:#ab8a2b;
   font-size:1.2em;
-  font-weight: bold
+  font-weight: bold;
+  font-face: "Arial";
 }
 
 @media (max-width: 768px) {
