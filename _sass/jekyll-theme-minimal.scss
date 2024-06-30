@@ -268,10 +268,11 @@ footer {
   padding: 10px;
   text-align: left;
   background-color: #f1f1f1;
+  max-width: 350px;
 }
 
 /* Responsive columns - one column layout (vertical) on small screens */
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 720px) {
   .column {
     width: 100%;
     display: block;
