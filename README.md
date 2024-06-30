@@ -32,6 +32,7 @@
 &nbsp;
 &nbsp;
 &nbsp;
+&nbsp;
 
 <p id= "topic_head">SQL projects</p>
 
@@ -49,17 +50,18 @@
 &nbsp;
 &nbsp;
 &nbsp;
+&nbsp;
 
 <p id= "topic_head">Data Visualizations</p>
 
 <div class = "card-container">
 <div class = "card">
      <img align = left src= "assets/img/enrolment.jpg" width = "180" height = "110" style= "margin-right: 10px;"/>
-     <p><a href = "https://public.tableau.com/views/AUS_HDE/StudentEnrolmentsPartA?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" target = "_blank">Australia Higher Education Student Enrolments Dashboard</a></p>
+     <p><a href = "https://public.tableau.com/views/AUS_HDE/StudentEnrolmentsPartA?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" target = "_blank">Australia Higher Education Student Enrolments Dashboard (Tableau)</a></p>
 </div>
 <div class = "card">
       <img align = left src= "assets/img/completions2.jpg" width = "180" height = "110" style= "margin-right: 10px;"/>
-      <p><a href = "https://public.tableau.com/views/AUS_Completion/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" target = "_blank">Australia Higher Education Award Course Completions Dashboard</a></p>  
+      <p><a href = "https://public.tableau.com/views/AUS_Completion/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" target = "_blank">Australia Higher Education Award Course Completions Dashboard (Tableau)</a></p>  
 </div>
 </div>
 
@@ -69,11 +71,11 @@
 <div class = "card-container">
 <div class = "card">
      <img align = left src= "assets/img/burden.jpg" width = "180" height = "110" style= "margin-right: 10px;"/>
-     <p><a href = "https://public.tableau.com/views/aus_burden_of_disease_viz/ABDdashboard?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link" target = "_blank">Australia Burden of Disease Visualization</a></p>
+     <p><a href = "https://public.tableau.com/views/aus_burden_of_disease_viz/ABDdashboard?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link" target = "_blank">Australia Burden of Disease Visualization (Tableau)</a></p>
 </div>
 <div class = "card">
      <img align = left src= "assets/img/burden.jpg" width = "180" height = "110" style= "margin-right: 10px;"/>
-     <p><a href = "https://public.tableau.com/views/aus_burden_of_disease_viz/ABDdashboard?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link" target = "_blank">Australia Burden of Disease Visualization</a></p>  
+     <p><a href = "https://public.tableau.com/views/Covid_deaths_17194860048630/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link" target = "_blank">COVID-19 Cases, Deaths & Vaccinations Dashboard (Tableau)</a></p>  
 </div>
 </div>
 
