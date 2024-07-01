@@ -70,7 +70,7 @@
 
 <div class = "card-container">
 <div class = "card">
-     <img align = left src= "assets/img/covid_tab1.jpg" width = "180" height = "110" style= "margin-right: 10px;"/>
+     <img align = left src= "assets/img/covid_map_2.jpg" width = "180" height = "110" style= "margin-right: 10px;"/>
      <p><a href = "https://public.tableau.com/views/Covid_deaths_17194860048630/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link" target = "_blank">COVID-19 Cases, Deaths & Vaccinations Dashboard (Tableau)</a></p>  
 </div>
 <div class = "card">
