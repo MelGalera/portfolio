@@ -70,12 +70,12 @@
 
 <div class = "card-container">
 <div class = "card">
-     <img align = left src= "assets/img/burden.jpg" width = "180" height = "110" style= "margin-right: 10px;"/>
-     <p><a href = "https://public.tableau.com/views/aus_burden_of_disease_viz/ABDdashboard?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link" target = "_blank">Australia Burden of Disease Visualization (Tableau)</a></p>
+     <img align = left src= "assets/img/covid_map_2.jpg" width = "180" height = "110" style= "margin-right: 10px;"/>
+     <p><a href = "https://public.tableau.com/views/Covid_deaths_17194860048630/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link" target = "_blank">COVID-19 Cases, Deaths & Vaccinations Dashboard (Tableau)</a></p>  
 </div>
 <div class = "card">
      <img align = left src= "assets/img/burden.jpg" width = "180" height = "110" style= "margin-right: 10px;"/>
-     <p><a href = "https://public.tableau.com/views/Covid_deaths_17194860048630/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link" target = "_blank">COVID-19 Cases, Deaths & Vaccinations Dashboard (Tableau)</a></p>  
+     <p><a href = "https://public.tableau.com/views/aus_burden_of_disease_viz/ABDdashboard?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link" target = "_blank">Australia Burden of Disease Visualization (Tableau)</a></p>    
 </div>
 </div>
 
