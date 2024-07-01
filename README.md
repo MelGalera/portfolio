@@ -85,7 +85,7 @@
 <div class = "card-container">
 <div class = "card">
      <img align = left src= "assets/img/hospital.jpg" width = "180" height = "110" style= "margin-right: 10px;"/>
-     <p><a href = "https://melgalera.github.io/Public-Hospitals-Dashboard-with-R/">Australia Public Hospitals Dashboard (R Shiny)</a></p>
+     <p><a href = "https://melgalera.github.io/Public-Hospitals-Dashboard-with-R/" target = "_blank">Australia Public Hospitals Dashboard (R Shiny)</a></p>
 </div>
 <div class = "card">
      <img align = left src= "assets/img/covid.jpg" width = "180" height = "110" style= "margin-right: 10px;"/>
