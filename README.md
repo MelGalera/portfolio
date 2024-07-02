@@ -38,11 +38,11 @@
 
 <div class = "card-container">
 <div class = "card">
-     <img align = left src= "assets/img/sql.jpg" width = "180" height = "110" style= "margin-right: 10px;"/>
+     <img align = left src= "assets/img/sql_covid.jpg" width = "180" height = "110" style= "margin-right: 10px;"/>
      <p><a href = "https://melgalera.github.io/COVID-data-exploration-by-SQL/" target = "_blank">COVID-19 Data Exploration using SQL</a></p>
 </div>
 <div class = "card">
-      <img align = left src= "assets/img/sql.jpg" width = "180" height = "110" style= "margin-right: 10px;"/>
+      <img align = left src= "assets/img/sql_pop.jpg" width = "180" height = "110" style= "margin-right: 10px;"/>
       <p><a href = "https://melgalera.github.io/Population-growth-data-exploration-by-SQL/" target = "_blank">Population Growth Data Exploration using SQL</a></p>  
 </div>
 </div>
