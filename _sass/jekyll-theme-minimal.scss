@@ -280,14 +280,13 @@ footer {
 
 .container {
   width: 100%;
-  margin: 0 auto;
-}
-
-#page-header {
+  padding: 60px;
+  text-align:center;
+  font-size: 10px;
+  color: white;
   background: #c49a00;
-  position: fixed;
 }
-  
+ 
 
 @media (max-width: 768px) {
     .card {
