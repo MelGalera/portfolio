@@ -1,6 +1,6 @@
 # PROJECTS
 <br>
-<p id="page_head">A list of data analysis and visualization projects I've worked on. To view a project, hover over the title and click on it.</p>
+<p id="page_head">A curated list of my data analysis and visualization projects. To explore a project, simply hover over the title and click.</p>
 
 <br>
 
