@@ -271,6 +271,15 @@ footer {
   font-family: "Arial";
 }
 
+.card2 {
+    flex: 1 1 calc(50% - 16px);
+    box-sizing: border-box;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0); /* this adds the "card" effect */
+    padding: 16px;
+    text-align: left;
+    background-color: #ffffff;
+}
+
 #topic_head {
   color:#ab8a2b;
   font-size:1.2em;
