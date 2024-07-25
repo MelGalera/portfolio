@@ -95,7 +95,14 @@
 </div>
 </div>
 
+&nbsp;
+&nbsp;
 
+<div class = "card-container">
+<div class = "card">
+     <img align = left src= "assets/img/patients_er.jpg" width = "180" height = "110" style= "margin-right: 10px;"/>
+     <p><a href = "https://melgalera.github.io/Patient-ER-Visit-with-PBI/" target = "_blank">Patients Emergency Room Visit Dashboard (Power BI)</a></p>
+</div>
 
 
 
